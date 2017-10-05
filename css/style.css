@@ -1,0 +1,9 @@
+body {
+    background-image:url(../img/tiles.jpg);
+    font-family: 'Rye', cursive;
+    padding:5%;
+}
+
+a {
+    color:#000000;
+}
